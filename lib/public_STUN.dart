@@ -8,6 +8,6 @@ class FullAddress {
 }
 
 List<FullAddress> publicSTUNs = [
-  FullAddress(InternetAddress("74.125.140.127"), 19302)
+  FullAddress(InternetAddress("75.2.81.221"), 3478)
   // new FullAddress(InternetAddress("18.191.223.12"), 3478)
 ];
